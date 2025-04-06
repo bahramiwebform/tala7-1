@@ -65,7 +65,7 @@ function ShoppingCartPage() {
               {convertToPersianDigits(2370000)} تومان
             </p>
             <button className="text-red-500 hover:text-red-700 p-2 rounded-full">
-              <GoTrash size={25} />
+              <GoTrash size={28} />
             </button>
           </div>
         </div>
